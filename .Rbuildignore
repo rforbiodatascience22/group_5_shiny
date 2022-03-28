@@ -15,3 +15,5 @@ $run_dev.*
 ^centraldogma.*\.tgz$
 ^doc$
 ^Meta$
+^app\.R$
+^rsconnect$
