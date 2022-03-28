@@ -10,3 +10,8 @@ $run_dev.*
 ^LICENSE\.md$
 ^README\.Rmd$
 ^CODE_OF_CONDUCT\.md$
+^centraldogma\.Rcheck$
+^centraldogma.*\.tar\.gz$
+^centraldogma.*\.tgz$
+^doc$
+^Meta$
