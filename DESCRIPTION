@@ -10,9 +10,10 @@ URL: https://github.com/rforbiodatascience22/group_5_shiny
 BugReports: https://github.com/rforbiodatascience22/group_5_shiny/issues
 Imports: 
     config (>= 0.3.1),
+    DOgma,
+    ggplot2,
     golem (>= 0.3.2),
     magrittr,
-    pkgload,
     shiny (>= 1.7.1)
 Suggests: 
     knitr,
