@@ -5,7 +5,7 @@ account: astridfilt
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5949641
-bundleId: 5734652
+bundleId: 5739202
 url: https://astridfilt.shinyapps.io/project/
-when: 1648462586.18353
-lastSyncTime: 1648462586.18354
+when: 1648542609.97682
+lastSyncTime: 1648542609.97683
