@@ -26,7 +26,7 @@ golem::fill_desc(
   author_first_name = "group", # Your First Name
   author_last_name = "5", # Your Last Name
   author_email = "s220672@dtu.dk", # Your Email
-  repo_url = "https://github.com/rforbiodatascience22/group_5_shiny" # The URL of the GitHub Repo (optional)
+  repo_url = NULL # The URL of the GitHub Repo (optional)
 )
 
 ## Set {golem} options ----
